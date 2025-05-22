@@ -39,7 +39,7 @@ Live Agent (in Salesforce Service Console)
 Conversation saved in Messaging Objects
 
 
-Key Components:
+## Key Components:
 Embedded Service Deployment: The script you put on your website
 
 Messaging Channel: Connects your website to Salesforce
