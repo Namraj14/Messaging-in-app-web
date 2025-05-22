@@ -55,8 +55,8 @@ Session Data: Saved in MessagingSession, MessagingUser, and ConversationEntry ob
 
 
 
-# 🛠️ Step-by-Step Guide: Setting Up Salesforce Messaging for In-App and Web (MIAW)
-
+**# 🛠️ Step-by-Step Guide: Setting Up Salesforce Messaging for In-App and Web (MIAW)
+**
 This guide explains not just **how** to set up Salesforce Messaging, but also **why** each step matters.
 
 ---
