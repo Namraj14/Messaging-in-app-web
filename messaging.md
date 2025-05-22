@@ -193,5 +193,3 @@ Use **Messaging Insights Dashboards** to track:
 - 📥 Queue traffic and agent workload  
 - 🌟 CSAT scores (if feedback is enabled)  
 
-> Go to `App Launcher → Messaging Insights
-
